@@ -35,7 +35,7 @@ This interactive dashboard visualizes and analyzes key sales metrics for online 
 - 🧾 **Order Metrics** – Total Orders, Cancelled Orders
 - 💳 **ATV (Average Transaction Value)** overview
 
-  ![Online Sales analytics Dashboard](https://github.com/user-attachments/assets/53f1646a-396f-43e7-9a9a-77c5ff38980e)
+  ![Online Sales analytics Dashboard](https://github.com/user-attachments/assets/c7498403-f063-4405-93d5-7c99a0072833)
 
 
 ## 📬 Contact
